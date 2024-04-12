@@ -1,0 +1,281 @@
+ID	Description
+R-HSA-1226099	Signaling by FGFR in disease
+R-HSA-1227990	Signaling by ERBB2 in Cancer
+R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants
+R-HSA-1643713	Signaling by EGFR in Cancer
+R-HSA-1839120	Signaling by FGFR1 amplification mutants
+R-HSA-1839122	Signaling by activated point mutants of FGFR1
+R-HSA-1839124	FGFR1 mutant receptor activation
+R-HSA-1839126	FGFR2 mutant receptor activation
+R-HSA-1839128	FGFR4 mutant receptor activation
+R-HSA-1839130	Signaling by activated point mutants of FGFR3
+R-HSA-2023837	Signaling by FGFR2 amplification mutants
+R-HSA-2033514	FGFR3 mutant receptor activation
+R-HSA-2033515	t(4;14) translocations of FGFR3
+R-HSA-2033519	Activated point mutants of FGFR2
+R-HSA-2219528	PI3K/AKT Signaling in Cancer
+R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer
+R-HSA-2644602	Signaling by NOTCH1 PEST Domain Mutants in Cancer
+R-HSA-2644603	Signaling by NOTCH1 in Cancer
+R-HSA-2644605	FBXW7 Mutants and NOTCH1 in Cancer
+R-HSA-2644606	Constitutive Signaling by NOTCH1 PEST Domain Mutants
+R-HSA-2644607	Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling
+R-HSA-2660825	Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant
+R-HSA-2660826	Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant
+R-HSA-2691230	Signaling by NOTCH1 HD Domain Mutants in Cancer
+R-HSA-2691232	Constitutive Signaling by NOTCH1 HD Domain Mutants
+R-HSA-2894858	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer
+R-HSA-2894862	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
+R-HSA-3304347	Loss of Function of SMAD4 in Cancer
+R-HSA-3304349	Loss of Function of SMAD2/3 in Cancer
+R-HSA-3304351	Signaling by TGF-beta Receptor Complex in Cancer
+R-HSA-3304356	SMAD2/3 Phosphorylation Motif Mutants in Cancer
+R-HSA-3311021	SMAD4 MH2 Domain Mutants in Cancer
+R-HSA-3315487	SMAD2/3 MH2 Domain Mutants in Cancer
+R-HSA-3642278	Loss of Function of TGFBR2 in Cancer
+R-HSA-3642279	TGFBR2 MSI Frameshift Mutants in Cancer
+R-HSA-3645790	TGFBR2 Kinase Domain Mutants in Cancer
+R-HSA-3656532	TGFBR1 KD Mutants in Cancer
+R-HSA-3656534	Loss of Function of TGFBR1 in Cancer
+R-HSA-3656535	TGFBR1 LBD Mutants in Cancer
+R-HSA-4791275	Signaling by WNT in cancer
+R-HSA-4839735	Signaling by AXIN mutants
+R-HSA-4839743	Signaling by CTNNB1 phospho-site mutants
+R-HSA-4839744	Signaling by APC mutants
+R-HSA-4839748	Signaling by AMER1 mutants
+R-HSA-5340573	LGK974 inhibits PORCN
+R-HSA-5340588	Signaling by RNF43 mutants
+R-HSA-5358747	CTNNB1 S33 mutants aren't phosphorylated
+R-HSA-5358749	CTNNB1 S37 mutants aren't phosphorylated
+R-HSA-5358751	CTNNB1 S45 mutants aren't phosphorylated
+R-HSA-5358752	CTNNB1 T41 mutants aren't phosphorylated
+R-HSA-5423599	Diseases of Mismatch Repair (MMR)
+R-HSA-5467333	APC truncation mutants are not K63 polyubiquitinated
+R-HSA-5467337	APC truncation mutants have impaired AXIN binding
+R-HSA-5467340	AXIN missense mutants destabilize the destruction complex
+R-HSA-5467343	Deletions in the AMER1 gene destabilize the destruction complex
+R-HSA-5467345	Deletions in the AXIN1 gene destabilize the destruction complex
+R-HSA-5467348	Truncations of AMER1 destabilize the destruction complex
+R-HSA-5545483	Defective Mismatch Repair Associated With MLH1
+R-HSA-5545619	XAV939 stabilizes AXIN
+R-HSA-5632927	Defective Mismatch Repair Associated With MSH3
+R-HSA-5632928	Defective Mismatch Repair Associated With MSH2
+R-HSA-5632968	Defective Mismatch Repair Associated With MSH6
+R-HSA-5632987	Defective Mismatch Repair Associated With PMS2
+R-HSA-5637810	Constitutive Signaling by EGFRvIII
+R-HSA-5637812	Signaling by EGFRvIII in Cancer
+R-HSA-5637815	Signaling by Ligand-Responsive EGFR Variants in Cancer
+R-HSA-5638302	Signaling by Overexpressed Wild-Type EGFR in Cancer
+R-HSA-5638303	Inhibition of Signaling by Overexpressed EGFR
+R-HSA-5655253	Signaling by FGFR2 in disease
+R-HSA-5655291	Signaling by FGFR4 in disease
+R-HSA-5655302	Signaling by FGFR1 in disease
+R-HSA-5655332	Signaling by FGFR3 in disease
+R-HSA-5674400	Constitutive Signaling by AKT1 E17K in Cancer
+R-HSA-5674404	PTEN Loss of Function in Cancer
+R-HSA-6802946	Signaling by moderate kinase activity BRAF mutants
+R-HSA-6802948	Signaling by high-kinase activity BRAF mutants
+R-HSA-6802949	Signaling by RAS mutants
+R-HSA-6802952	Signaling by BRAF and RAF1 fusions
+R-HSA-6802953	RAS signaling downstream of NF1 loss-of-function variants
+R-HSA-6802955	Paradoxical activation of RAF signaling by kinase inactive BRAF
+R-HSA-6802957	Oncogenic MAPK signaling
+R-HSA-8853333	Signaling by FGFR2 fusions
+R-HSA-8853334	Signaling by FGFR3 fusions in cancer
+R-HSA-8853336	Signaling by plasma membrane FGFR1 fusions
+R-HSA-9006821	Alternative Lengthening of Telomeres (ALT)
+R-HSA-9605308	Diseases of Base Excision Repair
+R-HSA-9605310	Defective Base Excision Repair Associated with MUTYH
+R-HSA-9608287	Defective MUTYH substrate binding
+R-HSA-9608290	Defective MUTYH substrate processing
+R-HSA-9616333	Defective Base Excision Repair Associated with NTHL1
+R-HSA-9616334	Defective Base Excision Repair Associated with NEIL1
+R-HSA-9630221	Defective NTHL1 substrate processing
+R-HSA-9630222	Defective NTHL1 substrate binding
+R-HSA-9630747	Diseases of Cellular Senescence
+R-HSA-9630750	Evasion of Oncogene Induced Senescence Due to p16INK4A Defects
+R-HSA-9630791	Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4
+R-HSA-9630794	Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6
+R-HSA-9632693	Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects
+R-HSA-9632697	Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4
+R-HSA-9632700	Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6
+R-HSA-9634285	Constitutive Signaling by Overexpressed ERBB2
+R-HSA-9645722	Defective Intrinsic Pathway for Apoptosis Due to p14ARF Loss of Function
+R-HSA-9645723	Diseases of programmed cell death
+R-HSA-9646303	Evasion of Oncogene Induced Senescence Due to p14ARF Defects
+R-HSA-9646304	Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects
+R-HSA-9649913	RAS GTPase cycle mutants
+R-HSA-9649948	Signaling downstream of RAS mutants
+R-HSA-9652169	Signaling by MAP2K mutants
+R-HSA-9652817	Signaling by MAPK mutants
+R-HSA-9656223	Signaling by RAF1 mutants
+R-HSA-9656249	Defective Base Excision Repair Associated with OGG1
+R-HSA-9656255	Defective OGG1 Substrate Binding
+R-HSA-9656256	Defective OGG1 Substrate Processing
+R-HSA-9657050	Defective OGG1 Localization
+R-HSA-9659787	Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects
+R-HSA-9661069	Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)
+R-HSA-9661070	Defective translocation of RB1 mutants to the nucleus
+R-HSA-9663199	Defective DNA double strand break response due to BRCA1 loss of function
+R-HSA-9664565	Signaling by ERBB2 KD Mutants
+R-HSA-9665230	Drug resistance in ERBB2 KD mutants
+R-HSA-9665233	Resistance of ERBB2 KD mutants to trastuzumab
+R-HSA-9665244	Resistance of ERBB2 KD mutants to sapitinib
+R-HSA-9665245	Resistance of ERBB2 KD mutants to tesevatinib
+R-HSA-9665246	Resistance of ERBB2 KD mutants to neratinib
+R-HSA-9665247	Resistance of ERBB2 KD mutants to osimertinib
+R-HSA-9665249	Resistance of ERBB2 KD mutants to afatinib
+R-HSA-9665250	Resistance of ERBB2 KD mutants to AEE788
+R-HSA-9665251	Resistance of ERBB2 KD mutants to lapatinib
+R-HSA-9665348	Signaling by ERBB2 ECD mutants
+R-HSA-9665686	Signaling by ERBB2 TMD/JMD mutants
+R-HSA-9665737	Drug resistance in ERBB2 TMD/JMD mutants
+R-HSA-9669914	Dasatinib-resistant KIT mutants
+R-HSA-9669917	Imatinib-resistant KIT mutants
+R-HSA-9669921	KIT mutants bind TKIs
+R-HSA-9669924	Masitinib-resistant KIT mutants
+R-HSA-9669926	Nilotinib-resistant KIT mutants
+R-HSA-9669929	Regorafenib-resistant KIT mutants
+R-HSA-9669933	Signaling by kinase domain mutants of KIT
+R-HSA-9669934	Sunitinib-resistant KIT mutants
+R-HSA-9669935	Signaling by juxtamembrane domain KIT mutants
+R-HSA-9669936	Sorafenib-resistant KIT mutants
+R-HSA-9669937	Drug resistance of KIT mutants
+R-HSA-9669938	Signaling by KIT in disease
+R-HSA-9670439	Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants
+R-HSA-9670613	Defective Inhibition of DNA Recombination at Telomere Due to DAXX Mutations
+R-HSA-9670615	Defective Inhibition of DNA Recombination at Telomere Due to ATRX Mutations
+R-HSA-9670621	Defective Inhibition of DNA Recombination at Telomere
+R-HSA-9671555	Signaling by PDGFR in disease
+R-HSA-9673766	Signaling by cytosolic PDGFRA and PDGFRB fusion proteins
+R-HSA-9673767	Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants
+R-HSA-9673768	Signaling by membrane-tethered fusions of PDGFRA or PDGFRB
+R-HSA-9673770	Signaling by PDGFRA extracellular domain mutants
+R-HSA-9674396	Imatinib-resistant PDGFR mutants
+R-HSA-9674401	Sunitinib-resistant PDGFR mutants
+R-HSA-9674403	Regorafenib-resistant PDGFR mutants
+R-HSA-9674404	Sorafenib-resistant PDGFR mutants
+R-HSA-9674415	Drug resistance of PDGFR mutants
+R-HSA-9674428	PDGFR mutants bind TKIs
+R-HSA-9675136	Diseases of DNA Double-Strand Break Repair
+R-HSA-9680187	Signaling by extracellular domain mutants of KIT
+R-HSA-9682385	FLT3 signaling in disease
+R-HSA-9687136	Aberrant regulation of mitotic exit in cancer due to RB1 defects
+R-HSA-9687139	Aberrant regulation of mitotic cell cycle due to RB1 defects
+R-HSA-9699150	Defective DNA double strand break response due to BARD1 loss of function
+R-HSA-9700206	Signaling by ALK in cancer
+R-HSA-9700645	ALK mutants bind TKIs
+R-HSA-9700649	Drug resistance of ALK mutants
+R-HSA-9701190	Defective homologous recombination repair (HRR) due to BRCA2 loss of function
+R-HSA-9701192	Defective homologous recombination repair (HRR) due to BRCA1 loss of function
+R-HSA-9701193	Defective homologous recombination repair (HRR) due to PALB2 loss of function
+R-HSA-9702506	Drug resistance of FLT3 mutants
+R-HSA-9702509	FLT3 mutants bind TKIs
+R-HSA-9702518	STAT5 activation downstream of FLT3 ITD mutants
+R-HSA-9702569	KW2449-resistant FLT3 mutants
+R-HSA-9702577	semaxanib-resistant FLT3 mutants
+R-HSA-9702581	crenolanib-resistant FLT3 mutants
+R-HSA-9702590	gilteritinib-resistant FLT3 mutants
+R-HSA-9702596	lestaurtinib-resistant FLT3 mutants
+R-HSA-9702600	midostaurin-resistant FLT3 mutants
+R-HSA-9702605	pexidartinib-resistant FLT3 mutants
+R-HSA-9702614	ponatinib-resistant FLT3 mutants
+R-HSA-9702620	quizartinib-resistant FLT3 mutants
+R-HSA-9702624	sorafenib-resistant FLT3 mutants
+R-HSA-9702632	sunitinib-resistant FLT3 mutants
+R-HSA-9702636	tandutinib-resistant FLT3 mutants
+R-HSA-9702998	linifanib-resistant FLT3 mutants
+R-HSA-9703009	tamatinib-resistant FLT3 mutants
+R-HSA-9703465	Signaling by FLT3 fusion proteins
+R-HSA-9703648	Signaling by FLT3 ITD and TKD mutants
+R-HSA-9704331	Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function
+R-HSA-9704646	Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function
+R-HSA-9706377	FLT3 signaling by CBL mutants
+R-HSA-9709275	Impaired BRCA2 translocation to the nucleus
+R-HSA-9709570	Impaired BRCA2 binding to RAD51
+R-HSA-9709603	Impaired BRCA2 binding to PALB2
+R-HSA-9710421	Defective pyroptosis
+R-HSA-9717264	ASP-3026-resistant ALK mutants
+R-HSA-9717301	NVP-TAE684-resistant ALK mutants
+R-HSA-9717316	alectinib-resistant ALK mutants
+R-HSA-9717319	brigatinib-resistant ALK mutants
+R-HSA-9717323	ceritinib-resistant ALK mutants
+R-HSA-9717326	crizotinib-resistant ALK mutants
+R-HSA-9717329	lorlatinib-resistant ALK mutants
+R-HSA-9723905	Loss of function of TP53 in cancer due to loss of tetramerization ability
+R-HSA-9723907	Loss of Function of TP53 in Cancer
+R-HSA-9725370	Signaling by ALK fusions and activated point mutants
+R-HSA-9725371	Nuclear events stimulated by ALK signaling in cancer
+R-HSA-9734009	Defective Intrinsic Pathway for Apoptosis
+R-HSA-9753510	Signaling by RAS GAP mutants
+R-HSA-9753512	Signaling by RAS GTPase mutants
+R-HSA-9763198	Impaired BRCA2 binding to SEM1 (DSS1)
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases
+R-HSA-1474244	Extracellular matrix organization
+R-HSA-1500931	Cell-Cell communication
+R-HSA-194840	Rho GTPase cycle
+R-HSA-446728	Cell junction organization
+R-HSA-1474290	Collagen formation
+R-HSA-6785631	ERBB2 Regulates Cell Motility
+R-HSA-5683057	MAPK family signaling cascades
+R-HSA-5673001	RAF/MAP kinase cascade
+R-HSA-216083	Integrin cell surface interactions
+R-HSA-3000171	Non-integrin membrane-ECM interactions
+R-HSA-8874081	MET activates PTK2 signaling
+R-HSA-418990	Adherens junctions interactions
+R-HSA-5684996	MAPK1/MAPK3 signaling
+R-HSA-3000178	ECM proteoglycans
+R-HSA-8875878	MET promotes cell motility
+R-HSA-194138	Signaling by VEGF
+R-HSA-421270	Cell-cell junction organization
+R-HSA-8948216	Collagen chain trimerization
+R-HSA-4420097	VEGFA-VEGFR2 Pathway
+R-HSA-8848021	Signaling by PTK6
+R-HSA-9006927	Signaling by Non-Receptor Tyrosine Kinases
+R-HSA-2022090	Assembly of collagen fibrils and other multimeric structures
+R-HSA-1250196	SHC1 events in ERBB2 signaling
+R-HSA-8847993	ERBB2 Activates PTK6 Signaling
+R-HSA-350054	Notch-HLH transcription pathway
+R-HSA-166520	Signaling by NTRKs
+R-HSA-1963642	PI3K events in ERBB2 signaling
+R-HSA-6811558	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling
+R-HSA-9006925	Intracellular signaling by second messengers
+R-HSA-199418	Negative regulation of the PI3K/AKT network
+R-HSA-1227986	Signaling by ERBB2
+R-HSA-1236394	Signaling by ERBB4
+R-HSA-1650814	Collagen biosynthesis and modifying enzymes
+R-HSA-6806834	Signaling by MET
+R-HSA-389357	CD28 dependent PI3K/Akt signaling
+R-HSA-1257604	PIP3 activates AKT signaling
+R-HSA-110056	MAPK3 (ERK1) activation
+R-HSA-1442490	Collagen degradation
+R-HSA-9013508	NOTCH3 Intracellular Domain Regulates Transcription
+R-HSA-9012852	Signaling by NOTCH3
+R-HSA-186797	Signaling by PDGF
+R-HSA-194315	Signaling by Rho GTPases
+R-HSA-1980143	Signaling by NOTCH1
+R-HSA-9013695	NOTCH4 Intracellular Domain Regulates Transcription
+R-HSA-1474228	Degradation of the extracellular matrix
+R-HSA-211163	AKT-mediated inactivation of FOXO1A
+R-HSA-399997	Acetylcholine regulates insulin secretion
+R-HSA-400042	Adrenaline,noradrenaline inhibits insulin secretion
+R-HSA-9614085	FOXO-mediated transcription
+R-HSA-9617828	FOXO-mediated transcription of cell cycle genes
+R-HSA-9614657	FOXO-mediated transcription of cell death genes
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes
+R-HSA-434316	Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+R-HSA-400451	Free fatty acids regulate insulin secretion
+R-HSA-381676	Glucagon-like Peptide-1 (GLP1) regulates insulin secretion
+R-HSA-163754	Insulin effects increased synthesis of Xylulose-5-Phosphate
+R-HSA-264876	Insulin processing
+R-HSA-77387	Insulin receptor recycling
+R-HSA-74751	Insulin receptor signalling cascade
+R-HSA-428359	Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA
+R-HSA-434313	Intracellular metabolism of fatty acids regulates insulin secretion
+R-HSA-9617629	Regulation of FOXO transcriptional activity by acetylation
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
+R-HSA-422356	Regulation of insulin secretion
+R-HSA-9614399	Regulation of localization of FOXO transcription factors
+R-HSA-74752	Signaling by Insulin receptor
+R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+R-HSA-400511	Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)
